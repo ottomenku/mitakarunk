@@ -1,0 +1,17 @@
+//auth:---------------------
+composer require laravel/ui
+//lehet hogy kell egy Y-t is nyomni
+
+php artisan ui vue
+php artisan ui vue --auth
+ email: menkuotto@gmail.com passwd: laravel6814
+//npm frissítés----------------------------
+npm update -g  // friisítés globálisannode --version
+vagy npm install -g npm@latest
+
+//node frissítés----------------------
+wget https://nodejs.org/download/release/latest/win-x64/node.exe -OutFile 'C:\Program Files\nodejs\node.exe'
+
+
+//git--------------------------
+git init

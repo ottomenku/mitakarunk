@@ -101,16 +101,16 @@
 
                             <div class="ml-12">
  <!---  HHHH --->            
-                                <div class="fb-post" 
-                                data-href="https://www.facebook.com/groups/2899402587023293/posts/2899403100356575/"
-                                data-width="500"></div>
+                               
                                 <!--Your Group Plugin for the Web code-->
                                 <div class="fb-group" 
-                                     data-href="https://www.facebook.com/groups/2899402587023293/posts/2899403100356575/" 
+                                     data-href="https://www.facebook.com/groups/2899402587023293/" 
                                      data-width="500" 
                                      data-show-metadata="false">
                                 </div>
-
+                                <div class="fb-post" 
+                                data-href="https://www.facebook.com/groups/2899402587023293/posts/2899403100356575/"
+                                data-width="500"></div>
 
                             </div>
                         </div>

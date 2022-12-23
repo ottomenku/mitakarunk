@@ -74,7 +74,7 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
 <!---  HHHH --->            
                                     <div class="fb-post" 
-                                    data-href="https://www.facebook.com/groups/1077538682888309/posts/1106252653350245/"
+                                    data-href="https://www.facebook.com/menkuotto/posts/pfbid01DjqKGU7PPMSvHBZUaJ2vw7X9p7NWdqLqHT1juCDPgMN511vA38m36AS4i96jdTml"
                                     data-width="500"></div>
 
 
@@ -90,9 +90,10 @@
                             </div>
 
                             <div class="ml-12">
-                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
-                                </div>
+                                <!---  HHHH --->            
+                                <div class="fb-post" 
+                                data-href="https://www.facebook.com/groups/2899402587023293/posts/2899403100356575/"
+                                data-width="500"></div>
                             </div>
                         </div>
 

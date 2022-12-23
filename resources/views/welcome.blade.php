@@ -19,12 +19,22 @@
                 font-family: 'Nunito', sans-serif;
             }
         </style>
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=462088905911447&autoLogAppEvents=1';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+
     </head>
     <body class="antialiased">
-        <div id="fb-root"></div>
-        <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-
+      
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
@@ -90,10 +100,18 @@
                             </div>
 
                             <div class="ml-12">
-                                <!---  HHHH --->            
+ <!---  HHHH --->            
                                 <div class="fb-post" 
                                 data-href="https://www.facebook.com/groups/2899402587023293/posts/2899403100356575/"
                                 data-width="500"></div>
+                                <!--Your Group Plugin for the Web code-->
+                                <div class="fb-group" 
+                                     data-href="https://www.facebook.com/groups/2899402587023293" 
+                                     data-width="280" 
+                                     data-show-metadata="false">
+                                </div>
+
+
                             </div>
                         </div>
 
